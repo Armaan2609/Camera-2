@@ -1,0 +1,14 @@
+html, body {
+  background-color:burlywood;
+  margin: 0;
+  padding: 0;
+  display:flex;
+  justify-content: center;
+
+}
+canvas {
+  display: block;
+  margin: 100px;
+border-radius: 20px;
+border: solid brown;
+}
